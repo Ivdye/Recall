@@ -28,7 +28,7 @@
 
 - Storyline is incomplete and the sound effects hold no particular meaning.
 
-- Just simply experience it.
+- Just simply experience and feel it.
 
 # Download
 - Download the Release
