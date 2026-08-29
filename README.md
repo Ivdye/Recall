@@ -1,5 +1,5 @@
 # Recall
-·A psychological horror game made with UE5.
+-A psychological horror game made with UE5.
 
 Inspired by P.T.
 
