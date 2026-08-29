@@ -20,9 +20,13 @@
 
 - Don't worry.
 
-- Game duration:Maybe 10-20mins.
+- Game duration: Maybe 10-20 mins.
 
 - Two Endings.
+
+- Storyline is incomplete and the sound effects hold no particular meaning.
+
+- Just simply experience it.
 
 <img width="2560" height="1440" alt="Recall Screenshot 2026 08 24 - 23 56 42 94" src="https://github.com/user-attachments/assets/2cc80c59-ff9e-4465-9f85-0bafa7e57949" />
 <img width="2560" height="1440" alt="Recall Screenshot 2026 08 24 - 23 56 55 30" src="https://github.com/user-attachments/assets/0509084a-7008-4f23-8b11-9767366a12e7" />
