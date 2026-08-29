@@ -11,7 +11,7 @@
 - https://youtu.be/-hb7nKETtq4
 
 # Playing method
-[!WARNING]
+
 - Walk in a repeated space.
 
 - Take photos with a Polaroid SX70 and collect evidences.
